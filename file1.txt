@@ -1,1 +1,1 @@
-"Hello from notepad"
+Hello from notepad
